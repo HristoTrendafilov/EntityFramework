@@ -1,0 +1,12 @@
+D:\C# DataBase ProblemSolving\EntityFramework\JSON\CarDealerJson\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.csprojAssemblyReference.cache
+D:\C# DataBase ProblemSolving\EntityFramework\JSON\CarDealerJson\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.AssemblyInfoInputs.cache
+D:\C# DataBase ProblemSolving\EntityFramework\JSON\CarDealerJson\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.AssemblyInfo.cs
+D:\C# DataBase ProblemSolving\EntityFramework\JSON\CarDealerJson\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.csproj.CoreCompileInputs.cache
+D:\C# DataBase ProblemSolving\EntityFramework\JSON\CarDealerJson\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.deps.json
+D:\C# DataBase ProblemSolving\EntityFramework\JSON\CarDealerJson\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.runtimeconfig.json
+D:\C# DataBase ProblemSolving\EntityFramework\JSON\CarDealerJson\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.runtimeconfig.dev.json
+D:\C# DataBase ProblemSolving\EntityFramework\JSON\CarDealerJson\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.dll
+D:\C# DataBase ProblemSolving\EntityFramework\JSON\CarDealerJson\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.pdb
+D:\C# DataBase ProblemSolving\EntityFramework\JSON\CarDealerJson\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.dll
+D:\C# DataBase ProblemSolving\EntityFramework\JSON\CarDealerJson\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.pdb
+D:\C# DataBase ProblemSolving\EntityFramework\JSON\CarDealerJson\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.genruntimeconfig.cache
