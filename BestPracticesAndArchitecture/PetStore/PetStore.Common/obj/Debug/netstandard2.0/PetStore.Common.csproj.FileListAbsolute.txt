@@ -1,0 +1,9 @@
+D:\C# DataBase ProblemSolving\EntityFramework\PetStore\PetStore.Common\bin\Debug\netstandard2.0\PetStore.Common.deps.json
+D:\C# DataBase ProblemSolving\EntityFramework\PetStore\PetStore.Common\bin\Debug\netstandard2.0\PetStore.Common.dll
+D:\C# DataBase ProblemSolving\EntityFramework\PetStore\PetStore.Common\bin\Debug\netstandard2.0\PetStore.Common.pdb
+D:\C# DataBase ProblemSolving\EntityFramework\PetStore\PetStore.Common\obj\Debug\netstandard2.0\PetStore.Common.csprojAssemblyReference.cache
+D:\C# DataBase ProblemSolving\EntityFramework\PetStore\PetStore.Common\obj\Debug\netstandard2.0\PetStore.Common.AssemblyInfoInputs.cache
+D:\C# DataBase ProblemSolving\EntityFramework\PetStore\PetStore.Common\obj\Debug\netstandard2.0\PetStore.Common.AssemblyInfo.cs
+D:\C# DataBase ProblemSolving\EntityFramework\PetStore\PetStore.Common\obj\Debug\netstandard2.0\PetStore.Common.csproj.CoreCompileInputs.cache
+D:\C# DataBase ProblemSolving\EntityFramework\PetStore\PetStore.Common\obj\Debug\netstandard2.0\PetStore.Common.dll
+D:\C# DataBase ProblemSolving\EntityFramework\PetStore\PetStore.Common\obj\Debug\netstandard2.0\PetStore.Common.pdb
