@@ -1,0 +1,11 @@
+D:\C# DataBase ProblemSolving\EntityFramework\ExamPrep 07 DEC 2019\TeisterMask\bin\Debug\netcoreapp2.1\TeisterMask.deps.json
+D:\C# DataBase ProblemSolving\EntityFramework\ExamPrep 07 DEC 2019\TeisterMask\bin\Debug\netcoreapp2.1\TeisterMask.runtimeconfig.json
+D:\C# DataBase ProblemSolving\EntityFramework\ExamPrep 07 DEC 2019\TeisterMask\bin\Debug\netcoreapp2.1\TeisterMask.runtimeconfig.dev.json
+D:\C# DataBase ProblemSolving\EntityFramework\ExamPrep 07 DEC 2019\TeisterMask\bin\Debug\netcoreapp2.1\TeisterMask.dll
+D:\C# DataBase ProblemSolving\EntityFramework\ExamPrep 07 DEC 2019\TeisterMask\bin\Debug\netcoreapp2.1\TeisterMask.pdb
+D:\C# DataBase ProblemSolving\EntityFramework\ExamPrep 07 DEC 2019\TeisterMask\obj\Debug\netcoreapp2.1\TeisterMask.AssemblyInfoInputs.cache
+D:\C# DataBase ProblemSolving\EntityFramework\ExamPrep 07 DEC 2019\TeisterMask\obj\Debug\netcoreapp2.1\TeisterMask.AssemblyInfo.cs
+D:\C# DataBase ProblemSolving\EntityFramework\ExamPrep 07 DEC 2019\TeisterMask\obj\Debug\netcoreapp2.1\TeisterMask.csproj.CoreCompileInputs.cache
+D:\C# DataBase ProblemSolving\EntityFramework\ExamPrep 07 DEC 2019\TeisterMask\obj\Debug\netcoreapp2.1\TeisterMask.dll
+D:\C# DataBase ProblemSolving\EntityFramework\ExamPrep 07 DEC 2019\TeisterMask\obj\Debug\netcoreapp2.1\TeisterMask.pdb
+D:\C# DataBase ProblemSolving\EntityFramework\ExamPrep 07 DEC 2019\TeisterMask\obj\Debug\netcoreapp2.1\TeisterMask.genruntimeconfig.cache
